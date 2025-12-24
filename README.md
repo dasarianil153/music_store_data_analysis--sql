@@ -12,4 +12,15 @@ This project is designed to demonstrate **SQL querying skills**, including joins
 
 ## 🗺️ Database Schema Diagram
 
-![image alt]()
+![image alt](https://github.com/dasarianil153/music_store_data_analysis--sql/blob/main/schema_diagram.png)
+
+## 🎯 Project Objectives
+
+- Analyze a Music Store relational database using SQL  
+- Understand and work with multiple related tables using JOINs  
+- Identify customer spending patterns and sales trends  
+- Determine top-performing artists, albums, and music genres  
+- Calculate revenue at customer, artist, and country levels  
+- Apply SQL concepts such as GROUP BY, HAVING, and subqueries  
+- Strengthen practical SQL skills for real-world data analysis and interviews  
+
